@@ -8,6 +8,6 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
+        <Button Content="Print" HorizontalAlignment="Center" VerticalAlignment="Center" Click="print_Click" />
     </Grid>
 </Page>
